@@ -63,7 +63,7 @@ A digital logic circuit that detects whether a binary input is even or odd using
 A Python GUI project that checks password strength based on length, character types, and provides real-time feedback to the user.
 
 🎓 **GPA Calculator**  
-An intuitive Python-based GPA calculator that helps students calculate their GPA efficiently, supporting multiple grading scales.
+An intuitive C++-based GPA calculator that helps students calculate their GPA efficiently, supporting multiple grading scales.
 
 ---
 
