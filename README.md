@@ -2,14 +2,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Student-Kafr%20El%20Sheikh%20University-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Science%20Enthusiast-💡-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-🚀-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-📊-green?style=for-the-badge" />
 </p>
 
 ---
 
 🎓 I'm a student at the Faculty of Artificial Intelligence, Kafr El-Sheikh University.  
-💡 Passionate about **Data Analysis**, **Machine Learning**, and **Data Science**.  
+💡 Passionate about **Data Analysis**.  
 💻 I use **Python** and **C++** in most of my projects and constantly learning more!  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/zeinab-samaha-8887b332a)  
 📫 Email: talaatzeinab17@gmail.com 
@@ -17,10 +16,6 @@
 ---
 
 ## 🖼️ About Me (Visual)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
-</p>
 
 ---
 
@@ -68,6 +63,15 @@ A Python-based tool to compute and display GPA based on student grades.
 
 ---
 
+## 🎓 Certifications:
+
+- ✅ **Python for Data Analysis** – Microsoft  
+- ✅ **Mathematics Foundations** – Microsoft  
+- ✅ **Introduction to Python** – Mahartak Platform  
+- ✅ **Python for Machine Learning and Data Science** – Udemy
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
@@ -75,3 +79,4 @@ A Python-based tool to compute and display GPA based on student grades.
 ---
 
 *Thanks for visiting my profile! 💙 Feel free to check out my projects and connect with me.*
+
