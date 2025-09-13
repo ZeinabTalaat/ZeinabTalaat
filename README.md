@@ -11,7 +11,8 @@
 💡 Passionate about **Data Analysis**.  
 💻 I use **Python** and **C++** in most of my projects and constantly learning more!  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/zeinab-samaha-8887b332a)  
-📫 Email: talaatzeinab17@gmail.com 
+📫 Email: talaatzeinab17@gmail.com // zeinabsamaha7@gmail.com
+
 
 ---
 
@@ -61,6 +62,7 @@ A Python application that checks and rates the strength of a password using mult
 ### 🎓 GPA Calculator  
 A Python-based tool to compute and display GPA based on student grades.
 
+
 ---
 
 ## 🎓 Certifications:
@@ -70,6 +72,22 @@ A Python-based tool to compute and display GPA based on student grades.
 - ✅ **Introduction to Python** – Mahartak Platform  
 - ✅ **Python for Machine Learning and Data Science** – Udemy
 
+  ----
+  
+###  📊 Data Analysis Portfolio
+
+Welcome to my Data Analysis Projects Portfolio! 🚀
+Here I showcase different projects I’ve worked on using:
+Excel,Power BI,SQL,python
+Each project demonstrates specific skills in data cleaning, analysis, visualization, and building insights.
+
+🔎 Projects
+Predicting Egypt House Prices (Python, Machine Learning)
+Predicting Diabetes Risk (Python, Data Analysis & Visualization)
+HR Data Analysis (Excel)
+Interactive Dashboards (Excel & Power BI)
+Real Estate Agency Analysis (Power BI)
+SQL Query Tasks (SQL)
 ---
 
 <p align="center">
