@@ -62,18 +62,8 @@ A Python application that checks and rates the strength of a password using mult
 ### 🎓 GPA Calculator  
 A Python-based tool to compute and display GPA based on student grades.
 
+----
 
----
-
-## 🎓 Certifications:
-
-- ✅ **Python for Data Analysis** – Microsoft  
-- ✅ **Mathematics Foundations** – Microsoft  
-- ✅ **Introduction to Python** – Mahartak Platform  
-- ✅ **Python for Machine Learning and Data Science** – Udemy
-
-  ----
-  
 ###  📊 Data Analysis Portfolio
 
 Welcome to my Data Analysis Projects Portfolio! 🚀
@@ -96,6 +86,15 @@ Each project demonstrates specific skills in data cleaning, analysis, visualizat
 
 ---
 
+## 🎓 Certifications:
+
+- ✅ **Python for Data Analysis** – Microsoft  
+- ✅ **Mathematics Foundations** – Microsoft  
+- ✅ **Introduction to Python** – Mahartak Platform  
+- ✅ **Python for Machine Learning and Data Science** – Udemy
+
+  ----
+  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
