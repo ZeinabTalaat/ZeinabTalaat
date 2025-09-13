@@ -82,12 +82,18 @@ Excel,Power BI,SQL,python
 Each project demonstrates specific skills in data cleaning, analysis, visualization, and building insights.
 
 🔎 Projects
-Predicting Egypt House Prices (Python, Machine Learning)
-Predicting Diabetes Risk (Python, Data Analysis & Visualization)
-HR Data Analysis (Excel)
-Interactive Dashboards (Excel & Power BI)
-Real Estate Agency Analysis (Power BI)
-SQL Query Tasks (SQL)
+-Predicting Egypt House Prices (Python, Machine Learning)
+
+-Predicting Diabetes Risk (Python, Data Analysis & Visualization)
+
+-HR Data Analysis (Excel)
+
+-Interactive Dashboards (Excel & Power BI)
+
+-Real Estate Agency Analysis (Power BI)
+
+-SQL Query Tasks (SQL)
+
 ---
 
 <p align="center">
