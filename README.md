@@ -89,13 +89,18 @@ Each project demonstrates specific skills in data cleaning, analysis, visualizat
 Analyzed car sales dataset using *Excel* to perform data cleaning, exploratory data analysis (EDA), and visualization of sales trends
 
 ---
+### 📊 First Data Journey – Tharaa Training
+Completed a *15-hour training program* covering data analysis fundamentals, Excel, Power BI, and data visualization.  
 
+ ----
+ 
 ## 🎓 Certifications:
 
 - ✅ **Python for Data Analysis** – Microsoft  
 - ✅ **Mathematics Foundations** – Microsoft  
 - ✅ **Introduction to Python** – Mahartak Platform  
 - ✅ **Python for Machine Learning and Data Science** – Udemy
+- ✅ **The First Data Journey (Introduction to Data Analysis)** – Tharaa Training Company
 
   ----
   
