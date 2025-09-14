@@ -85,6 +85,10 @@ Each project demonstrates specific skills in data cleaning, analysis, visualizat
 -SQL Query Tasks (SQL)
 
 ---
+### 🚗 Car Sales Data Analysis
+Analyzed car sales dataset using *Excel* to perform data cleaning, exploratory data analysis (EDA), and visualization of sales trends
+
+---
 
 ## 🎓 Certifications:
 
